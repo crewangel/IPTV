@@ -1,129 +1,135 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/w16vy5emk3tx83vwy39p"
-#EXTINF:-1 tvg-chno="1" tvg-id="RTP1(src01).pt" tvg-name="RTP 1" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/19/RTP1_Short_2016.svg/revision/latest/scale-to-width-down/2000?cb=20160409062526" group-title="Televisão",RTP 1
-#EXTVLCOPT:http-user-agent=Firefox
-#EXTVLCOPT:http-referrer=https://rtp.pt/
+#EXTINF:-1 tvg-id="RTP1(src01).pt" tvg-name="RTP 1" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/19/RTP1_Short_2016.svg/revision/latest/scale-to-width-down/2000?cb=20160409062526" group-title="Generalista",RTP 1
 https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
-#EXTINF:-1 tvg-chno="2" tvg-id="RTP2(src01).pt" tvg-name="RTP 2" tvg-logo="https://th.bing.com/th/id/R.44caf0e885b6ff2d478435f6278494c0?rik=ez2hCKmFZHm9og&pid=ImgRaw&r=0" group-title="Televisão",RTP 2
-#EXTVLCOPT:http-user-agent=Firefox
-#EXTVLCOPT:http-referrer=https://rtp.pt/
+#EXTINF:-1 tvg-id="RTP2(src01).pt" tvg-name="RTP 2" tvg-logo="https://th.bing.com/th/id/R.44caf0e885b6ff2d478435f6278494c0?rik=ez2hCKmFZHm9og&pid=ImgRaw&r=0" group-title="Generalista",RTP 2
 https://streaming-live.rtp.pt/liverepeater/smil:rtp2HD.smil/playlist.m3u8
-#EXTINF:-1 tvg-chno="3" tvg-id="SIC(src01).pt" tvg-name="SIC" tvg-logo="https://i.imgur.com/SPMqiDG.png" group-title="Televisão",SIC
+#EXTINF:-1 tvg-id="SIC(src01).pt" tvg-name="SIC" tvg-logo="https://i.imgur.com/SPMqiDG.png" group-title="Generalista",SIC
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
-#EXTINF:-1 tvg-chno="4" tvg-id="TVI(src01).pt" tvg-name="TVI" tvg-logo="https://www.iol.pt/multimedia/oratvi/multimedia/imagem/id/58ab3cae0cf2b10cb661350e/" group-title="Televisão",TVI
-#KODIPROP:inputstream=inputstream.adaptive
+#EXTINF:-1 tvg-id="TVI(src01).pt" tvg-name="TVI" tvg-logo="https://www.iol.pt/multimedia/oratvi/multimedia/imagem/id/58ab3cae0cf2b10cb661350e/" group-title="Generalista",TVI
 https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNy8yMDI1IDg6Njo0OSBQTSZoYXNoX3ZhbHVlPUhMNk5Va2dqa3pFRGUwWUs0NExYOVE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1jYTU5NzlhYi1mNDJmLTRkYmMtOGQ3NC02OGJjZDk0MGI5ZjQ=/
-#EXTINF:-1 tvg-chno="5" tvg-id="SICNoticias(src01).pt" tvg-name="SIC Notícias" tvg-logo="https://images.impresa.pt/scd/2023-10-20-sicnot-alt.png-0c5ecfcc-1?v=w620h395" group-title="Televisão",SIC Notícias
-https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index.m3u8
-#EXTINF:-1 tvg-chno="6" tvg-id="RTP3(src01).pt" tvg-name="RTP 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/RTP3_2016_%28Reduced_Version%29.svg/512px-RTP3_2016_%28Reduced_Version%29.svg.png" group-title="Televisão",RTP 3
-#EXTVLCOPT:http-user-agent=Firefox
-#EXTVLCOPT:http-referrer=https://rtp.pt/
-https://streaming-live.rtp.pt/liverepeater/smil:rtpnHD.smil/playlist.m3u8
-#EXTINF:-1 tvg-chno="7" tvg-id="CNNPortugal(src01).pt" tvg-name="CNN Portugal" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/CNN_Portugal_boxless_2021.svg/revision/latest/scale-to-width-down/1200?cb=20240228143210" group-title="Televisão",CNN Portugal
-#KODIPROP:inputstream=inputstream.adaptive
-https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNy8yMDI1IDg6Njo1MCBQTSZoYXNoX3ZhbHVlPTAzQm1iOUhVek95bTJLSzdnYnpISGc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1iYzdkOWM4My1hYWI4LTQ4ZWYtYWJkZi1hNTQyYmM5ZTY5NzQ=/
-#EXTINF:-1 tvg-chno="8" tvg-id="VplusTVI(src01).pt" tvg-name="V+" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/vmaistvi.png" group-title="Televisão",V+
-https://video-auth2.iol.pt/live_vmais/live_vmais/edge_servers/vmais-720p/playlist.m3u8
-#EXTINF:-1 tvg-chno="9" tvg-id="TVIReal(src01).pt" tvg-name="TVI Reality" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/tvi-reality.png" group-title="Televisão",TVI Reality
-https://video-auth4.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/playlist.m3u8
-#EXTINF:-1 tvg-chno="10" tvg-id="RTPMemoria(src01).pt" tvg-name="RTP Memória" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/RTP_Mem%C3%B3ria_2016_%28Reduced_Version%29.svg/1280px-RTP_Mem%C3%B3ria_2016_%28Reduced_Version%29.svg.png" group-title="Televisão",RTP Memória
-https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8
-#EXTINF:-1 tvg-chno="11" tvg-id="PortoCanal(src01).pt" tvg-name="Porto Canal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Porto-Canal.png" group-title="Televisão",Porto Canal
+#EXTINF:-1 tvg-id="PortoCanal(src01).pt" tvg-name="Porto Canal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Porto-Canal.png" group-title="Generalista",Porto Canal
 https://pull-live-156-1.global.ssl.fastly.net/pc5865dc25400thmb-ea6bf03b14fa318f7133/smil:pc1-jhrgyuoqe5865db-68tkgb14fa318f7133f03.smil/playlist.m3u8
-#EXTINF:-1 tvg-chno="12" tvg-id="ParamountNetwork.us" tvg-name="Paramount Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/paramount-network-us.png?raw=true" group-title="Televisão",Paramount Network
+#EXTINF:-1 tvg-id="SICNoticias(src01).pt" tvg-name="SIC Notícias" tvg-logo="https://images.impresa.pt/scd/2023-10-20-sicnot-alt.png-0c5ecfcc-1?v=w620h395" group-title="Notícias",SIC Notícias
+https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index.m3u8
+#EXTINF:-1 tvg-id="RTP3(src01).pt" tvg-name="RTP 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/RTP3_2016_%28Reduced_Version%29.svg/512px-RTP3_2016_%28Reduced_Version%29.svg.png" group-title="Notícias",RTP 3
+https://streaming-live.rtp.pt/liverepeater/smil:rtpnHD.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CNNPortugal(src01).pt" tvg-name="CNN Portugal" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/CNN_Portugal_boxless_2021.svg/revision/latest/scale-to-width-down/1200?cb=20240228143210" group-title="Notícias",CNN Portugal
+https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNy8yMDI1IDg6Njo1MCBQTSZoYXNoX3ZhbHVlPTAzQm1iOUhVek95bTJLSzdnYnpISGc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1iYzdkOWM4My1hYWI4LTQ4ZWYtYWJkZi1hNTQyYmM5ZTY5NzQ=/
+#EXTINF:-1 tvg-id="VplusTVI(src01).pt" tvg-name="V+" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/vmaistvi.png" group-title="Entretenimento",V+
+https://video-auth2.iol.pt/live_vmais/live_vmais/edge_servers/vmais-720p/playlist.m3u8
+#EXTINF:-1 tvg-id="TVIReal(src01).pt" tvg-name="TVI Reality" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/tvi-reality.png" group-title="Entretenimento",TVI Reality
+https://video-auth4.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/playlist.m3u8
+#EXTINF:-1 tvg-id="SIC(src01).pt" tvg-name="SIC Replay" tvg-logo="https://i.imgur.com/fj84mXz.png" group-title="Entretenimento",SIC Replay
+https://production-fast-sic.content.okast.tv/fa2e8c4385712f9a7dce4ff2dcebac2e/channels/d9070446-8448-455e-8075-773b1ba12562/d47eae0f-ad77-414a-9a1d-2a6628ba18c3/media_.m3u8
+#EXTINF:-1 tvg-id="VplusTVI(src01).pt" tvg-name="TVI Ficção" tvg-logo="https://cdn.iol.pt/img/logostvi/branco/tvificcao.png" group-title="Entretenimento",TVI Ficção
+https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
+#EXTINF:-1 tvg-id="RTPMemoria(src01).pt" tvg-name="RTP Memória" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/RTP_Mem%C3%B3ria_2016_%28Reduced_Version%29.svg/1280px-RTP_Mem%C3%B3ria_2016_%28Reduced_Version%29.svg.png" group-title="Entretenimento",RTP Memória
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ParamountNetwork.us" tvg-name="Paramount Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Paramount_Network.svg" group-title="Entretenimento",Paramount Network
 http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
-#EXTINF:-1 tvg-chno="13" tvg-id="ComedyCentral.us" tvg-name="Comedy Central" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png" group-title="Televisão",Comedy Central
+#EXTINF:-1 tvg-id="ComedyCentral.us" tvg-name="Comedy Central" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png" group-title="Entretenimento",Comedy Central
 http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
-#EXTINF:-1 tvg-chno="14" tvg-id="BET.us" tvg-name="BET" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10051_dark_360w_270h.png" group-title="Televisão",BET
+#EXTINF:-1 tvg-id="BET.us" tvg-name="BET" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10051_dark_360w_270h.png" group-title="Entretenimento",BET
 http://fl2.moveonjoy.com/BET_EAST/index.m3u8
-#EXTINF:-1 tvg-chno="15" tvg-id="BETHer.us" tvg-name="BET HER" tvg-logo="https://www.kindpng.com/picc/b/176-1763748_bet-her-bet-her-logo-hd-png-download.png" group-title="Televisão",BET HER
+#EXTINF:-1 tvg-id="BETHer.us" tvg-name="BET HER" tvg-logo="https://www.kindpng.com/picc/b/176-1763748_bet-her-bet-her-logo-hd-png-download.png" group-title="Entretenimento",BET HER
 http://fl2.moveonjoy.com/BET_HER/index.m3u8
-#EXTINF:-1 tvg-chno="16" tvg-id="USANetwork.us" tvg-name="USA Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true" group-title="Televisão",USA Network
+#EXTINF:-1 tvg-id="USANetwork.us" tvg-name="USA Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true" group-title="Entretenimento",USA Network
 http://fl2.moveonjoy.com/USA_Network/index.m3u8
-#EXTINF:-1 tvg-chno="17" tvg-id="MTV.us" tvg-name="MTV" tvg-logo="https://www.seekpng.com/png/full/87-877240_mtv-mtv-channel-icon-png.png" group-title="Televisão",MTV
+#EXTINF:-1 tvg-id="MTV.us" tvg-name="MTV" tvg-logo="https://www.seekpng.com/png/full/87-877240_mtv-mtv-channel-icon-png.png" group-title="Entretenimento",MTV
 http://fl2.moveonjoy.com/MTV/index.m3u8
-#EXTINF:-1 tvg-chno="18" tvg-id="MTV2.us" tvg-name="MTV2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-2-us.png?raw=true" group-title="Televisão",MTV2
+#EXTINF:-1 tvg-id="MTV2.us" tvg-name="MTV2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-2-us.png?raw=true" group-title="Entretenimento",MTV2
 http://fl2.moveonjoy.com/MTV_2/index.m3u8
-#EXTINF:-1 tvg-chno="19" tvg-id="EEntertainmentTelevision.us" tvg-name="E Entertainment Television" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E!_Logo.svg/1200px-E!_Logo.svg.png" group-title="Televisão",E Entertainment Television
+#EXTINF:-1 tvg-id="CBSRealityplus1(src01).uk" tvg-name="CBS Reality" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/CBS_Reality.png/512px-CBS_Reality.png" group-title="Entretenimento",CBS Reality
+http://109.233.89.170/CBS_Reality_HD/index.m3u8
+#EXTINF:-1 tvg-id="EEntertainmentTelevision.us" tvg-name="E Entertainment Television" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/e-logo-png-transparent.png" group-title="Entretenimento",E Entertainment Television
 http://fl2.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
-#EXTINF:-1 tvg-chno="20" tvg-id="TBS.us" tvg-name="TBS" tvg-logo="https://www.pikpng.com/pngl/b/218-2186546_tbs-logo-png-tbs-2015-clipart.png" group-title="Televisão",TBS
+#EXTINF:-1 tvg-id="TBS.us" tvg-name="TBS" tvg-logo="https://www.pikpng.com/pngl/b/218-2186546_tbs-logo-png-tbs-2015-clipart.png" group-title="Entretenimento",TBS
 http://fl1.moveonjoy.com/TBS/index.m3u8
-#EXTINF:-1 tvg-chno="21" tvg-id="Vice.us" tvg-name="Vice" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18822_dark_360w_270h.png" group-title="Televisão",Vice
+#EXTINF:-1 tvg-id="Vice.us" tvg-name="Vice" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18822_dark_360w_270h.png" group-title="Entretenimento",Vice
 http://fl2.moveonjoy.com/VICELAND/index.m3u8
-#EXTINF:-1 tvg-chno="22" tvg-id="TLC.us" tvg-name="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png" group-title="Televisão",TLC
+#EXTINF:-1 tvg-id="TLC.us" tvg-name="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png" group-title="Entretenimento",TLC
 http://fl2.moveonjoy.com/TLC/index.m3u8
-#EXTINF:-1 tvg-chno="23" tvg-id="MuchMusic(English).ca" tvg-name="Much" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/much-ca.png?raw=true" group-title="Televisão",Much
+#EXTINF:-1 tvg-id="MuchMusic(English).ca" tvg-name="Much" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/much-ca.png?raw=true" group-title="Entretenimento",Much
 http://fl1.moveonjoy.com/MUCH/index.m3u8
-#EXTINF:-1 tvg-chno="24" tvg-id="FYI.us" tvg-name="FYI " tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fyi-us.png?raw=true" group-title="Televisão",FYI 
+#EXTINF:-1 tvg-id="FYI.us" tvg-name="FYI " tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fyi-us.png?raw=true" group-title="Entretenimento",FYI 
 http://fl2.moveonjoy.com/FYI/index.m3u8
-#EXTINF:-1 tvg-chno="25" tvg-id="VH1.us" tvg-name="VH1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11218_dark_360w_270h.png" group-title="Televisão",VH1
+#EXTINF:-1 tvg-id="VH1.us" tvg-name="VH1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11218_dark_360w_270h.png" group-title="Entretenimento",VH1
 http://fl2.moveonjoy.com/VH1/index.m3u8
-#EXTINF:-1 tvg-chno="26" tvg-id="TNT.us" tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Tnt_tv_romania.png/1200px-Tnt_tv_romania.png" group-title="Televisão",TNT
+#EXTINF:-1 tvg-id="TNT.us" tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Tnt_tv_romania.png/1200px-Tnt_tv_romania.png" group-title="Entretenimento",TNT
 http://fl2.moveonjoy.com/TNT/index.m3u8
-#EXTINF:-1 tvg-chno="27" tvg-id="HGTV.us" tvg-name="HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png" group-title="Televisão",HGTV
+#EXTINF:-1 tvg-id="HGTV.us" tvg-name="HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png" group-title="Entretenimento",HGTV
 http://fl2.moveonjoy.com/HGTV/index.m3u8
-#EXTINF:-1 tvg-chno="28" tvg-id="AandE.us" tvg-name="A&E" tvg-logo="https://www.pngmart.com/files/23/Ae-Logo-PNG-Photo.png" group-title="Televisão",A&E
+#EXTINF:-1 tvg-id="AandE.us" tvg-name="A&E" tvg-logo="https://www.pngmart.com/files/23/Ae-Logo-PNG-Photo.png" group-title="Entretenimento",A&E
 http://cdn1host.online:2999/live/kratorius/opLcbhlXaT/212.m3u8
-#EXTINF:-1 tvg-chno="29" tvg-id="Bravo.us" tvg-name="Bravo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Bravo_2024.svg/800px-Bravo_2024.svg.png" group-title="Televisão",Bravo
+#EXTINF:-1 tvg-id="Bravo.us" tvg-name="Bravo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Bravo_2024.svg/800px-Bravo_2024.svg.png" group-title="Entretenimento",Bravo
 http://fl2.moveonjoy.com/BRAVO/index.m3u8
-#EXTINF:-1 tvg-chno="30" tvg-id="truTV.us" tvg-name="truTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10153_dark_360w_270h.png" group-title="Televisão",truTV
+#EXTINF:-1 tvg-id="truTV.us" tvg-name="truTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10153_dark_360w_270h.png" group-title="Entretenimento",truTV
 http://fl2.moveonjoy.com/TRU_TV/index.m3u8
-#EXTINF:-1 tvg-chno="31" tvg-id="FX.us" tvg-name="FX" tvg-logo="https://www.tvsa.co.za/images/uploads/thumbs/0049824.png" group-title="Televisão",FX
+#EXTINF:-1 tvg-id="FX.us" tvg-name="FX" tvg-logo="https://www.tvsa.co.za/images/uploads/thumbs/0049824.png" group-title="Séries",FX
 http://fl2.moveonjoy.com/FX/index.m3u8
-#EXTINF:-1 tvg-chno="32" tvg-id="FXX.us" tvg-name="FXX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17927_dark_360w_270h.png" group-title="Televisão",FXX
+#EXTINF:-1 tvg-id="FXX.us" tvg-name="FXX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17927_dark_360w_270h.png" group-title="Séries",FXX
 http://fl2.moveonjoy.com/FXX/index.m3u8
-#EXTINF:-1 tvg-chno="33" tvg-id="AMC.us" tvg-name="AMC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png" group-title="Televisão",AMC
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FX Comedy" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7519b96c-71f8-4040-82d4-c80e18384f1b/dfs9xap-e4dd9a5c-208f-488c-9afa-4a00ea1cd735.png/v1/fill/w_718,h_595/fx_comedy_logo_concept_2023_by_wbblackofficial_dfs9xap-fullview.png?token=eyJ0eXAiOiJKV1QiLC" group-title="Séries",FX Comedy
+http://178.219.128.68:64889/FOXCOMEHD
+#EXTINF:-1 tvg-id="AMC.us" tvg-name="AMC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png" group-title="Séries",AMC
 http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
-#EXTINF:-1 tvg-chno="34" tvg-id="SYFY.us" tvg-name="SYFY" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/syfy-us.png?raw=true" group-title="Televisão",SYFY
+#EXTINF:-1 tvg-id="SYFY.us" tvg-name="SYFY" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/syfy-us.png?raw=true" group-title="Séries",SYFY
 http://fl2.moveonjoy.com/SYFY/index.m3u8
-#EXTINF:-1 tvg-chno="35" tvg-id="IONTelevision.us" tvg-name="ION" tvg-logo="https://www.spellingbee.com/sites/default/files/2023-05/HeroLogo_Orange_RGB_0.png" group-title="Televisão",ION
+#EXTINF:-1 tvg-id="IONTelevision.us" tvg-name="ION" tvg-logo="https://www.spellingbee.com/sites/default/files/2023-05/HeroLogo_Orange_RGB_0.png" group-title="Séries",ION
 http://fl2.moveonjoy.com/ION_TV/index.m3u8
-#EXTINF:-1 tvg-chno="36" tvg-id="FXM.us" tvg-name="FXM" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fxm-movie-channel-us.png?raw=true" group-title="Televisão",FXM
+#EXTINF:-1 tvg-id="FXM.us" tvg-name="FXM" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fxm-movie-channel-us.png?raw=true" group-title="Filmes",FXM
 http://fl2.moveonjoy.com/FX_MOVIE/index.m3u8
-#EXTINF:-1 tvg-chno="37" tvg-id="TCM(English).co" tvg-name="TCM" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12852_dark_360w_270h.png" group-title="Televisão",TCM
+#EXTINF:-1 tvg-id="TCM(English).co" tvg-name="TCM" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12852_dark_360w_270h.png" group-title="Filmes",TCM
 http://fl1.moveonjoy.com/TCM/index.m3u8
-#EXTINF:-1 tvg-chno="38" tvg-id="FoodNetwork.us" tvg-name="Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1200px-Food_Network_logo.svg.png" group-title="Televisão",Food Network
+#EXTINF:-1 tvg-id="FoodNetwork.us" tvg-name="Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1200px-Food_Network_logo.svg.png" group-title="Gastronomia",Food Network
 http://fl2.moveonjoy.com/FOOD_NETWORK/index.m3u8
-#EXTINF:-1 tvg-chno="39" tvg-id="TennisChannel.us" tvg-name="Tennis Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/200px-Tennis_Channel_logo.svg.png" group-title="Televisão",Tennis Channel
+#EXTINF:-1 tvg-id="TennisChannel.us" tvg-name="Tennis Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/200px-Tennis_Channel_logo.svg.png" group-title="Desporto",Tennis Channel
 http://fl2.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-chno="40" tvg-id="DisneyChannel.us" tvg-name="Disney Channel" tvg-logo="https://logodix.com/logo/2107145.png" group-title="Televisão",Disney Channel
+#EXTINF:-1 tvg-id="DisneyChannel.us" tvg-name="Disney Channel" tvg-logo="https://logodix.com/logo/2107145.png" group-title="Infantil",Disney Channel
 https://tvpass.org/live/DisneyChannelEast/hd/
-#EXTINF:-1 tvg-chno="41" tvg-id="Nickelodeon.us" tvg-name="Nickelodeon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_(Logo).png" group-title="Televisão",Nickelodeon
+#EXTINF:-1 tvg-id="Nickelodeon.us" tvg-name="Nickelodeon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_(Logo).png" group-title="Infantil",Nickelodeon
 http://fl1.moveonjoy.com/NICKELODEON/index.m3u8
-#EXTINF:-1 tvg-chno="42" tvg-id="CartoonNetwork.us" tvg-name="Cartoon Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png" group-title="Televisão",Cartoon Network
+#EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="Cartoon Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png" group-title="Infantil",Cartoon Network
 http://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
-#EXTINF:-1 tvg-chno="43" tvg-id="DisneyXD.us" tvg-name="Disney XD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18279_dark_360w_270h.png" group-title="Televisão",Disney XD
+#EXTINF:-1 tvg-id="DisneyXD.us" tvg-name="Disney XD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18279_dark_360w_270h.png" group-title="Infantil",Disney XD
 https://tvpass.org/live/DisneyXDEast/hd/
-#EXTINF:-1 tvg-chno="44" tvg-id="DiscoveryFamilyChannel.us" tvg-name="Discovery Family Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16618_dark_360w_270h.png" group-title="Televisão",Discovery Family Channel
+#EXTINF:-1 tvg-id="TeenNick(English).pr" tvg-name="TeenNick" tvg-logo="https://i.imgur.com/VTWleRc.png" group-title="Infantil",TeenNick
+http://109.233.89.166/TeenNick/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryFamilyChannel.us" tvg-name="Discovery Family Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16618_dark_360w_270h.png" group-title="Infantil",Discovery Family Channel
 http://fl2.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-chno="46" tvg-id="DisneyJunior.us" tvg-name="Disney Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Disney_Jr._2024.svg/250px-Disney_Jr._2024.svg.png" group-title="Televisão",Disney Junior
+#EXTINF:-1 tvg-id="DisneyJunior.us" tvg-name="Disney Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Disney_Jr._2024.svg/250px-Disney_Jr._2024.svg.png" group-title="Infantil",Disney Junior
 http://fl2.moveonjoy.com/DISNEY_JR/index.m3u8
-#EXTINF:-1 tvg-chno="47" tvg-id="NickJr.us" tvg-name="NickJr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Nick_Jr.logo.png" group-title="Televisão",NickJr
+#EXTINF:-1 tvg-id="NickJr.us" tvg-name="NickJr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Nick_Jr.logo.png" group-title="Infantil",NickJr
 http://fl2.moveonjoy.com/NICK_JR/index.m3u8
-#EXTINF:-1 tvg-chno="48" tvg-id="Boomerang.us" tvg-name="Boomerang" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21883_dark_360w_270h.png" group-title="Televisão",Boomerang
+#EXTINF:-1 tvg-id="Boomerang.us" tvg-name="Boomerang" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21883_dark_360w_270h.png" group-title="Infantil",Boomerang
 http://fl3.moveonjoy.com/BOOMERANG/index.m3u8
-#EXTINF:-1 tvg-chno="49" tvg-id="Nicktoons.us" tvg-name="NickToons" tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/Nicktoons-Logo-2014.png" group-title="Televisão",NickToons
+#EXTINF:-1 tvg-id="Nicktoons.us" tvg-name="NickToons" tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/Nicktoons-Logo-2014.png" group-title="Infantil",NickToons
 http://fl1.moveonjoy.com/NICKTOONS/index.m3u8
-#EXTINF:-1 tvg-chno="50" tvg-id="NickMusic.us" tvg-name="NickMusic" tvg-logo="https://1.bp.blogspot.com/-7hVOYAQhdjw/X07zvW_CIOI/AAAAAAAA6TQ/2EW0Kh7AUZA4X3RoOjgUW9_tPaoDgBH0gCLcBGAsYHQ/s4260/nick-music-2020.png" group-title="Televisão",NickMusic
+#EXTINF:-1 tvg-id="JimJam(src01).ro" tvg-name="JimJam" tvg-logo="https://i.imgur.com/ODhkYyx.png" group-title="Infantil",JimJam
+http://109.233.89.166/Polsat_JimJam/index.m3u8
+#EXTINF:-1 tvg-id="BabyFirstTV.us" tvg-name="BabyFirst" tvg-logo="https://i.imgur.com/WxLHBwu.png" group-title="Infantil",BabyFirst
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c8d16110-566c-4e95-a1df-55d175e9e201/manifest.m3u8
+#EXTINF:-1 tvg-id="NickMusic.us" tvg-name="NickMusic" tvg-logo="https://1.bp.blogspot.com/-7hVOYAQhdjw/X07zvW_CIOI/AAAAAAAA6TQ/2EW0Kh7AUZA4X3RoOjgUW9_tPaoDgBH0gCLcBGAsYHQ/s4260/nick-music-2020.png" group-title="Infantil",NickMusic
 http://fl2.moveonjoy.com/NICK_MUSIC/index.m3u8
-#EXTINF:-1 tvg-chno="51" tvg-id="NationalGeographic.us" tvg-name="National Geographic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png" group-title="Televisão",National Geographic
+#EXTINF:-1 tvg-id="NationalGeographic.us" tvg-name="National Geographic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png" group-title="Documentários",National Geographic
 http://fl2.moveonjoy.com/National_Geographic/index.m3u8
-#EXTINF:-1 tvg-chno="52" tvg-id="NationalGeographicWild.us" tvg-name="National Geographic Wild" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66804_dark_360w_270h.png" group-title="Televisão",National Geographic Wild
+#EXTINF:-1 tvg-id="NationalGeographicWild.us" tvg-name="National Geographic Wild" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66804_dark_360w_270h.png" group-title="Documentários",National Geographic Wild
 http://fl2.moveonjoy.com/Nat_Geo_Wild/index.m3u8
-#EXTINF:-1 tvg-chno="53" tvg-id="DiscoveryChannel.us" tvg-name="Discovery Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-channel-us.png" group-title="Televisão",Discovery Channel
+#EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-name="Discovery Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-channel-us.png" group-title="Documentários",Discovery Channel
 http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
-#EXTINF:-1 tvg-chno="54" tvg-id="DiscoveryLifeChannel.us" tvg-name="DISCOVERY LIFE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16125_dark_360w_270h.png" group-title="Televisão",DISCOVERY LIFE
+#EXTINF:-1 tvg-id="DiscoveryLifeChannel.us" tvg-name="DISCOVERY LIFE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16125_dark_360w_270h.png" group-title="Documentários",DISCOVERY LIFE
 http://fl2.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
-#EXTINF:-1 tvg-chno="55" tvg-id="History.us" tvg-name="History" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/history-channel-us.png" group-title="Televisão",History
+#EXTINF:-1 tvg-id="History.us" tvg-name="History" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/history-channel-us.png" group-title="Documentários",History
 http://cdn1host.online:2999/live/kratorius/opLcbhlXaT/153.m3u8
-#EXTINF:-1 tvg-chno="56" tvg-id="InvestigationDiscovery.us" tvg-name="ID (Investigation Discovery)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16615_dark_360w_270h.png" group-title="Televisão",ID (Investigation Discovery)
+#EXTINF:-1 tvg-id="InvestigationDiscovery.us" tvg-name="ID (Investigation Discovery)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16615_dark_360w_270h.png" group-title="Documentários",ID (Investigation Discovery)
 http://fl2.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8
-#EXTINF:-1 tvg-chno="57" tvg-id="OxygenTrueCrime.us" tvg-name="Oxygen" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Oxygen_TV_%282017_Logo%29.svg/200px-Oxygen_TV_%282017_Logo%29.svg.png" group-title="Televisão",Oxygen
+#EXTINF:-1 tvg-id="OxygenTrueCrime.us" tvg-name="Oxygen" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Oxygen_TV_%282017_Logo%29.svg/200px-Oxygen_TV_%282017_Logo%29.svg.png" group-title="Documentários",Oxygen
 http://fl2.moveonjoy.com/OXYGEN/index.m3u8
-#EXTINF:-1 tvg-chno="58" tvg-id="MTVLIVE.us" tvg-name="MTV Live" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/MTV_Live_%28orange%29.svg/revision/latest/scale-to-width-down/250?cb=20220317014118" group-title="Televisão",MTV Live
+#EXTINF:-1 tvg-id="MTVLIVE.us" tvg-name="MTV Live" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/MTV_Live_%28orange%29.svg/revision/latest/scale-to-width-down/250?cb=20220317014118" group-title="Música",MTV Live
 http://fl5.moveonjoy.com/MTV_LIVE/index.m3u8
-#EXTINF:-1 tvg-chno="59" tvg-id="mtvU.us" tvg-name="MTVU" tvg-logo="https://logodix.com/logo/2156994.png" group-title="Televisão",MTVU
+#EXTINF:-1 tvg-id="mtvU.us" tvg-name="MTVU" tvg-logo="https://logodix.com/logo/2156994.png" group-title="Música",MTVU
 http://fl5.moveonjoy.com/MTV_U/index.m3u8
-#EXTINF:-1 tvg-chno="60" tvg-id="MTVClassic.us" tvg-name="MTV Classic" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-classic-us.png?raw=true" group-title="Televisão",MTV Classic
+#EXTINF:-1 tvg-id="MTVClassic.us" tvg-name="MTV Classic" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-classic-us.png?raw=true" group-title="Música",MTV Classic
 http://cdn1host.online:2999/live/kratorius/opLcbhlXaT/1194.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="00s Replay" tvg-logo="" group-title="(no group)" ,00s Replay
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62ba60f059624e000781c436/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c25e430-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1b7de8e4-d114-4438-b098-6f7aee77b4be
